@@ -11,4 +11,4 @@ Use this script to create an "announcement post" to micro.blog.
 4. Run the script standalone, or export it as an application  
 
 Here it is in action  
-![Twitch Go Live](https://jasonburk-cdn.s3.amazonaws.com/image/twitch-go-live.gif)
+![Twitch Go Live](https://burk-io-blog.s3.wasabisys.com/image/twitch-go-live.gif)
